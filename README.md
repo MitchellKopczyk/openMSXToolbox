@@ -32,7 +32,7 @@ Getting openMSX up and running with the right machine config, ROMs, and DOS imag
 
 ## Getting started
 
-1. Download the openMSXToolbox.exe
+1. Download the openMSXToolbox.exe [here](https://github.com/MitchellKopczyk/openMSXToolbox/releases/tag/openMSXToolkit)
 2. Drop the `floppy.dsk` next to the launcher. I pefer the Documents folder because openMSX dumps other files in there this way it's all in one place 
 3. Run the launcher:
 4. Hit **INSTALL** and wait for everything to download and set up
