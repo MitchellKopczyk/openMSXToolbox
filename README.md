@@ -35,11 +35,6 @@ Getting openMSX up and running with the right machine config, ROMs, and DOS imag
 1. Download the openMSXToolbox.exe
 2. Drop the `floppy.dsk` next to the launcher. I pefer the Documents folder because openMSX dumps other files in there this way it's all in one place 
 3. Run the launcher:
-
-```bash
-python openMSX_Toolbox.py
-```
-
 4. Hit **INSTALL** and wait for everything to download and set up
 5. Once complete, hit **RUN** — that's it!
 
